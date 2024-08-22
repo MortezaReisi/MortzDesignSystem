@@ -1,0 +1,48 @@
+[
+    {
+      "Main Token": {
+        "modes": {
+          "Mode 1": {
+            "Testcolor": {
+              "$scopes": ["ALL_SCOPES"],
+              "$type": "color",
+              "$value": "#ffffff"
+            },
+            "TestColor1": {
+              "$scopes": ["ALL_SCOPES"],
+              "$type": "color",
+              "$value": "#e1e1e1"
+            },
+            "TestColor2": {
+              "$scopes": ["ALL_SCOPES"],
+              "$type": "color",
+              "$value": "#d7d7d7"
+            },
+            "Color": {
+              "$scopes": ["ALL_SCOPES"],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "Main Token",
+              "$value": "{Testcolor}"
+            }
+          }
+        }
+      }
+    },
+    {
+      "Brand -1": {
+        "modes": {
+          "Mode 1": {
+            "Brand test -1": {
+              "$scopes": ["ALL_SCOPES"],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "Main Token",
+              "$value": "{TestColor1}"
+            }
+          }
+        }
+      }
+    }
+  ]
+  

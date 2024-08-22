@@ -1,1 +1,135 @@
-{"id":"VariableCollectionId:0:3","name":"Main Token","modes":{"0:0":"Mode 1"},"variableIds":["VariableID:1:2","VariableID:1:3","VariableID:1:4","VariableID:1:5"],"variables":[{"id":"VariableID:1:2","name":"Testcolor","description":"","type":"COLOR","valuesByMode":{"0:0":{"r":1,"g":1,"b":1,"a":1}},"resolvedValuesByMode":{"0:0":{"resolvedValue":{"r":1,"g":1,"b":1,"a":1},"alias":null}},"scopes":["ALL_SCOPES"],"hiddenFromPublishing":false,"codeSyntax":{}},{"id":"VariableID:1:3","name":"TestColor1","description":"","type":"COLOR","valuesByMode":{"0:0":{"r":0.8823529481887817,"g":0.8823529481887817,"b":0.8823529481887817,"a":1}},"resolvedValuesByMode":{"0:0":{"resolvedValue":{"r":0.8823529481887817,"g":0.8823529481887817,"b":0.8823529481887817,"a":1},"alias":null}},"scopes":["ALL_SCOPES"],"hiddenFromPublishing":false,"codeSyntax":{}},{"id":"VariableID:1:4","name":"TestColor2","description":"","type":"COLOR","valuesByMode":{"0:0":{"r":0.843137264251709,"g":0.843137264251709,"b":0.843137264251709,"a":1}},"resolvedValuesByMode":{"0:0":{"resolvedValue":{"r":0.843137264251709,"g":0.843137264251709,"b":0.843137264251709,"a":1},"alias":null}},"scopes":["ALL_SCOPES"],"hiddenFromPublishing":false,"codeSyntax":{}},{"id":"VariableID:1:5","name":"Color","description":"","type":"COLOR","valuesByMode":{"0:0":{"type":"VARIABLE_ALIAS","id":"VariableID:1:2"}},"resolvedValuesByMode":{"0:0":{"resolvedValue":{"r":1,"g":1,"b":1,"a":1},"alias":"VariableID:1:2","aliasName":"Testcolor"}},"scopes":["ALL_SCOPES"],"hiddenFromPublishing":false,"codeSyntax":{}}]}
+{
+    "id": "VariableCollectionId:0:3",
+    "name": "Main Token",
+    "modes": {
+      "0:0": "Mode 1"
+    },
+    "variableIds": [
+      "VariableID:1:2",
+      "VariableID:1:3",
+      "VariableID:1:4",
+      "VariableID:1:5"
+    ],
+    "variables": [
+      {
+        "id": "VariableID:1:2",
+        "name": "Testcolor",
+        "description": "",
+        "type": "COLOR",
+        "valuesByMode": {
+          "0:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        },
+        "resolvedValuesByMode": {
+          "0:0": {
+            "resolvedValue": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "alias": null
+          }
+        },
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:1:3",
+        "name": "TestColor1",
+        "description": "",
+        "type": "COLOR",
+        "valuesByMode": {
+          "0:0": {
+            "r": 0.8823529481887817,
+            "g": 0.8823529481887817,
+            "b": 0.8823529481887817,
+            "a": 1
+          }
+        },
+        "resolvedValuesByMode": {
+          "0:0": {
+            "resolvedValue": {
+              "r": 0.8823529481887817,
+              "g": 0.8823529481887817,
+              "b": 0.8823529481887817,
+              "a": 1
+            },
+            "alias": null
+          }
+        },
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:1:4",
+        "name": "TestColor2",
+        "description": "",
+        "type": "COLOR",
+        "valuesByMode": {
+          "0:0": {
+            "r": 0.843137264251709,
+            "g": 0.843137264251709,
+            "b": 0.843137264251709,
+            "a": 1
+          }
+        },
+        "resolvedValuesByMode": {
+          "0:0": {
+            "resolvedValue": {
+              "r": 0.843137264251709,
+              "g": 0.843137264251709,
+              "b": 0.843137264251709,
+              "a": 1
+            },
+            "alias": null
+          }
+        },
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:1:5",
+        "name": "Color",
+        "description": "",
+        "type": "COLOR",
+        "valuesByMode": {
+          "0:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:1:2"
+          }
+        },
+        "resolvedValuesByMode": {
+          "0:0": {
+            "resolvedValue": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "alias": "VariableID:1:2",
+            "aliasName": "Testcolor"
+          }
+        },
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      }
+    ]
+  }
+  
